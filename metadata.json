@@ -1,0 +1,6 @@
+{
+  "name": "Input Prestasi Siswa - SMPN 1 Pontianak",
+  "description": "Aplikasi Manajemen Prestasi Siswa Online SMP Negeri 1 Kota Pontianak dengan Integrasi Google Sheets dan Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
